@@ -1,1 +1,1 @@
-wikipedia
+pip install wikipedia
