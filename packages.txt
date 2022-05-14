@@ -1,1 +1,1 @@
-pip install wikipedia
+apt install wikipedia
